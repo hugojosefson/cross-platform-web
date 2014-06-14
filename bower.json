@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "cross-platform",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "1"
+  },
+  "authors": [
+    "Hugo Josefson <hugo@josefson.org>"
+  ],
+  "license": "MIT"
+}

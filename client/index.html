@@ -1,0 +1,18 @@
+<!doctype html>
+<html ng-app="crossPlatform">
+<head>
+  <title>Cross Platform</title>
+  <link href="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
+  <script src="bower-components/angular/angular.js"></script>
+  <script src="application.js"></script>
+</head>
+<body>
+<div class="container">
+  <div class="hero-unit" ng-controller="MainController as main">
+    <h1>Cross Platform</h1>
+
+    <p>This is {{ main.status || 'not working very well..' }}.</p>
+  </div>
+</div>
+</body>
+</html>
