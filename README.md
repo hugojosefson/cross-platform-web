@@ -1,5 +1,7 @@
 # Cross Platform Web project setup
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hugojosefson/cross-platform-web.svg)](https://greenkeeper.io/)
+
 This is an example of a JS web project configured to build and run equally well on Windows, Linux and OSX.
 
 ## Prerequisites
