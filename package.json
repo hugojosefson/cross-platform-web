@@ -9,7 +9,7 @@
     "deps": "npm install && bower install"
   },
   "dependencies": {
-    "colors": "^0.6.2",
+    "colors": "^1.1.2",
     "express": "^4.4.3"
   },
   "devDependencies": {
